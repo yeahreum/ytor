@@ -1,5 +1,5 @@
-# ytor
-Yeahreum TOR Network
+# Yeahreum | TOR Network |
+
 TOR SUPPORT IN YAH CORE
 =======================
 
